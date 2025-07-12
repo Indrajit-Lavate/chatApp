@@ -1,0 +1,8 @@
+....message model....
+
+senderID =
+receiverID
+message ="hello"
+
+ankit(sender)---->"hello"
+raj(receiver)
